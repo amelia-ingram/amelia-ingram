@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amelia-ingram
 - 👀 I’m interested in data analytics, applied social analysis, and urban inequality issues.
-- 🌱 I’m currently learning Python and R.  Eventually will learn SQL, Tableau more fluently and GIS.
-- 💞️ I’m looking to collaborate on descriptive analysis and exploratory testing projects...also to network with anyone who is interested in the same...
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on exploratory projects in urban inequality and health issues.
 - 📫 How to reach me ...[via this account].
 
 <!---
