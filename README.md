@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amelia-ingram
-- 👀 I’m interested in data analytics, applied social analysis, and urban inequality issues.
+- 👀 I’m a master's student in data analytics, applied social analysis, and urban inequality issues.
 - 🌱 I’m currently learning Python, R and Github to start my own portfoloio
 - 📫 Feel free to reach me ...[via this account].
 
