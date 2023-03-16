@@ -3,7 +3,6 @@
 ---
 - :mortar_board: I’m a master's student in data analytics at Queens College (CUNY)
 - :school: I teach anthropology, communications, and urban studies
-- :notes: For fun, I'm a drummer and vocalist
 - 🌱 I’m currently learning Python, R and Github while I start my own portfolio...so pardon the construction...any feedback or tips are welcome 
 
 ### ✨ Some of My Activities
