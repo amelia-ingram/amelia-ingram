@@ -1,9 +1,9 @@
 
 ### 👋 Hello there!
 ---
-- :mortar_board: I’m a master's student in data analytics at Queens College (CUNY)
-- :school: I teach anthropology, communications, and urban studies
-- 🌱 I’m currently learning Python, R and Github while I start my own portfolio...so pardon the construction...any feedback or tips are welcome 
+- :mortar_board: I recently graduated with an MA in Data Analytics and Applied Social Research at Queens College (CUNY)
+- :school: Currently, I teach anthropology, communications, and urban studies 
+- 🌱 I’m currently learning Python and SQL while I work on my portfolio...so pardon the construction...any feedback or tips are welcome! 
 
 ### ✨ Some of My Activities
 ---
